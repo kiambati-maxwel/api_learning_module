@@ -1,0 +1,19 @@
+{
+  "name": "netbotapi101",
+  "version": "1.0.0",
+  "description": "this is an interesting API",
+  "main": "index.js",
+  "scripts": {
+    "devapp": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kiambatiMaxwwel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
